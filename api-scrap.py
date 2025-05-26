@@ -2,7 +2,7 @@ import requests
 import json
 import matplotlib.pyplot as plt
 
-API_KEY = 'PwnctAWJSj2c3Ul0xGnhZA'
+API_KEY = 'API-KEY'
 URL = 'https://api.eflow.team/v1/networks/reporting/entity/table'
 
 headers = {
